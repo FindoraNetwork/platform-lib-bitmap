@@ -17,5 +17,5 @@ serde = "1.0.124"
 serde_json = "1.0"
 time = "0.3"
 
-cryptohash = { git = "https://github.com/FindoraNetwork/platform-lib-cryptohash", branch = "main" }
-globutils = { git = "https://github.com/FindoraNetwork/platform-lib-utils", branch = "main" }
+cryptohash = { git = "https://github.com/FindoraNetwork/platform-lib-cryptohash", tag = "v1.0.0" }
+globutils = { git = "https://github.com/FindoraNetwork/platform-lib-utils", tag = "v1.0.0" }
